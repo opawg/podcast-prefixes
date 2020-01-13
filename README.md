@@ -19,10 +19,12 @@ Each entry _must_ contain the following properties:
 
 ## Code sample
 
-This would probably work:
+Podnews uses this:
 
-```$stmt = $db->prepare("SELECT * FROM `podcasts-prefixes` WHERE INSTR(:url,pattern) LIMIT 1");   
-$stmt->execute(array(':url'=>$podcast['audiourl']));   
-$prefix = $stmt->fetch(PDO::FETCH_ASSOC);```
+```$stmt = $db->prepare("SELECT * FROM `podcasts-prefixes` WHERE INSTR(:url,prefixpattern)");
+$stmt->execute(array(':url'=>$podcast['audiourl']));
+$prefixes = $stmt->fetchAll(PDO::FETCH_ASSOC);```
+
+Of note: some podcasts are measured by multiple prefix providers.
 
 Improvements are welcome.
