@@ -13,6 +13,12 @@ Each entry _must_ contain the following properties:
 
 * `prefixname`: a humanly-readable name of the prefix company
 
+* `abilities_stats`: a boolean showing whether this prefix company uses its logs to provide stats
+
+* `abilities_tracking`: a boolean showing whether this prefix company uses its logs to provide tracking and attribution
+
+* `abilities_dynamicaudio`: a boolean showing whether this prefix company is capable of dynamic content insertion, used for advertising or content.
+
 * `prefixurl`: a website link (escaped) that links to the homepage of the podcast prefix company.
 
 * `prefixprivacyurl`: a website link (escaped) that links to the privacy policy of the podcast prefix company.
