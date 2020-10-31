@@ -1,7 +1,65 @@
-[{"prefixpattern":"media.blubrry.com","prefixname":"Blubrry","prefixurl":"https:\/\/create.blubrry.com\/resources\/podcast-media-download-statistics\/","prefixprivacyurl":"https:\/\/create.blubrry.com\/resources\/about-blubrry\/privacy-policy\/"},
-{"prefixpattern":"chtbl.com\/track","prefixname":"Chartable","prefixurl":"https:\/\/chartable.com","prefixprivacyurl":"https:\/\/chartable.com\/privacy"},
-{"prefixpattern":"pdcn.co","prefixname":"Podcorn","prefixurl":"https:\/\/podcorn.com","prefixprivacyurl":"https:\/\/podcorn.com\/privacy\/"},
-{"prefixpattern":"pdst.fm\/e\/","prefixname":"Podsights","prefixurl":"https:\/\/podsights.com","prefixprivacyurl":"https:\/\/podsights.com\/privacy"},
-{"prefixpattern":"dts.podtrac.com","prefixname":"Podtrac","prefixurl":"https:\/\/analytics.podtrac.com\/","prefixprivacyurl":"https:\/\/analytics.podtrac.com\/privacy-policy-gdrp"},
-{"prefixpattern":"play.podtrac.com","prefixname":"Podtrac","prefixurl":"https:\/\/analytics.podtrac.com","prefixprivacyurl":"https:\/\/analytics.podtrac.com\/privacy-policy-gdrp"},
-{"prefixpattern":"www.podtrac.com","prefixname":"Podtrac","prefixurl":"https:\/\/analytics.podtrac.com","prefixprivacyurl":"https:\/\/analytics.podtrac.com\/privacy-policy-gdrp"}]
+[
+    {
+        "prefixpattern": "media.blubrry.com",
+        "prefixname": "Blubrry",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "prefixurl": "https:\/\/create.blubrry.com\/resources\/podcast-media-download-statistics\/",
+        "prefixprivacyurl": "https:\/\/create.blubrry.com\/resources\/about-blubrry\/privacy-policy\/"
+    },
+    {
+        "prefixpattern": "chtbl.com\/track",
+        "prefixname": "Chartable",
+        "abilities_stats": "1",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "0",
+        "prefixurl": "https:\/\/chartable.com",
+        "prefixprivacyurl": "https:\/\/chartable.com\/privacy"
+    },
+    {
+        "prefixpattern": "pdcn.co",
+        "prefixname": "Podcorn",
+        "abilities_stats": "1",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "0",
+        "prefixurl": "https:\/\/podcorn.com",
+        "prefixprivacyurl": "https:\/\/podcorn.com\/privacy\/"
+    },
+    {
+        "prefixpattern": "pdst.fm\/e\/",
+        "prefixname": "Podsights",
+        "abilities_stats": "1",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "0",
+        "prefixurl": "https:\/\/podsights.com",
+        "prefixprivacyurl": "https:\/\/podsights.com\/privacy"
+    },
+    {
+        "prefixpattern": "dts.podtrac.com",
+        "prefixname": "Podtrac",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "prefixurl": "https:\/\/analytics.podtrac.com\/",
+        "prefixprivacyurl": "https:\/\/analytics.podtrac.com\/privacy-policy-gdrp"
+    },
+    {
+        "prefixpattern": "play.podtrac.com",
+        "prefixname": "Podtrac",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "prefixurl": "https:\/\/analytics.podtrac.com",
+        "prefixprivacyurl": "https:\/\/analytics.podtrac.com\/privacy-policy-gdrp"
+    },
+    {
+        "prefixpattern": "www.podtrac.com",
+        "prefixname": "Podtrac",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "prefixurl": "https:\/\/analytics.podtrac.com",
+        "prefixprivacyurl": "https:\/\/analytics.podtrac.com\/privacy-policy-gdrp"
+    }
+]
