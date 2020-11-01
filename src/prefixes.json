@@ -6,7 +6,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "prefixurl": "https:\/\/create.blubrry.com\/resources\/podcast-media-download-statistics\/",
-        "prefixprivacyurl": "https:\/\/create.blubrry.com\/resources\/about-blubrry\/privacy-policy\/"
+        "prefixprivacyurl": "https:\/\/create.blubrry.com\/resources\/about-blubrry\/privacy-policy\/",
+        "notes": "Blubrry does do dynamic audio; but not their measurement service. They do not do attribution."
     },
     {
         "prefixpattern": "chtbl.com\/track",
@@ -15,16 +16,18 @@
         "abilities_tracking": "1",
         "abilities_dynamicaudio": "0",
         "prefixurl": "https:\/\/chartable.com",
-        "prefixprivacyurl": "https:\/\/chartable.com\/privacy"
+        "prefixprivacyurl": "https:\/\/chartable.com\/privacy",
+        "notes": "Attribution: https:\/\/chartable.com\/"
     },
     {
         "prefixpattern": "pdcn.co",
         "prefixname": "Podcorn",
         "abilities_stats": "1",
-        "abilities_tracking": "1",
+        "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "prefixurl": "https:\/\/podcorn.com",
-        "prefixprivacyurl": "https:\/\/podcorn.com\/privacy\/"
+        "prefixprivacyurl": "https:\/\/podcorn.com\/privacy\/",
+        "notes": "No mention of attribution visible on their website"
     },
     {
         "prefixpattern": "pdst.fm\/e\/",
@@ -33,7 +36,8 @@
         "abilities_tracking": "1",
         "abilities_dynamicaudio": "0",
         "prefixurl": "https:\/\/podsights.com",
-        "prefixprivacyurl": "https:\/\/podsights.com\/privacy"
+        "prefixprivacyurl": "https:\/\/podsights.com\/privacy",
+        "notes": "Attribution: https:\/\/podsights.com\/attribution"
     },
     {
         "prefixpattern": "dts.podtrac.com",
@@ -42,7 +46,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "prefixurl": "https:\/\/analytics.podtrac.com\/",
-        "prefixprivacyurl": "https:\/\/analytics.podtrac.com\/privacy-policy-gdrp"
+        "prefixprivacyurl": "https:\/\/analytics.podtrac.com\/privacy-policy-gdrp",
+        "notes": "No mention of attribution visible on their website"
     },
     {
         "prefixpattern": "play.podtrac.com",
@@ -51,7 +56,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "prefixurl": "https:\/\/analytics.podtrac.com",
-        "prefixprivacyurl": "https:\/\/analytics.podtrac.com\/privacy-policy-gdrp"
+        "prefixprivacyurl": "https:\/\/analytics.podtrac.com\/privacy-policy-gdrp",
+        "notes": "No mention of attribution visible on their website"
     },
     {
         "prefixpattern": "www.podtrac.com",
@@ -60,6 +66,7 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "prefixurl": "https:\/\/analytics.podtrac.com",
-        "prefixprivacyurl": "https:\/\/analytics.podtrac.com\/privacy-policy-gdrp"
+        "prefixprivacyurl": "https:\/\/analytics.podtrac.com\/privacy-policy-gdrp",
+        "notes": "No mention of attribution visible on their website"
     }
 ]
