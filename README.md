@@ -23,6 +23,8 @@ Each entry _must_ contain the following properties:
 
 * `prefixprivacyurl`: a website link (escaped) that links to the privacy policy of the podcast prefix company.
 
+* `notes`: freeform detail about how the 'tracking' and 'dynamicaudio' values were decided upon.
+
 ## Code sample
 
 Podnews uses this:
