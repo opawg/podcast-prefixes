@@ -2,6 +2,7 @@
     {
         "prefixpattern": "media.blubrry.com",
         "prefixname": "Blubrry",
+        "iab": "1",
         "abilities_stats": "1",
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
@@ -12,6 +13,7 @@
     {
         "prefixpattern": "chtbl.com\/track",
         "prefixname": "Chartable",
+        "iab": "1",
         "abilities_stats": "1",
         "abilities_tracking": "1",
         "abilities_dynamicaudio": "0",
@@ -22,6 +24,7 @@
     {
         "prefixpattern": "pdcn.co",
         "prefixname": "Podcorn",
+        "iab": "0",
         "abilities_stats": "1",
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
@@ -32,6 +35,7 @@
     {
         "prefixpattern": "pdst.fm\/e\/",
         "prefixname": "Podsights",
+        "iab": "0",
         "abilities_stats": "1",
         "abilities_tracking": "1",
         "abilities_dynamicaudio": "0",
@@ -42,6 +46,7 @@
     {
         "prefixpattern": "dts.podtrac.com",
         "prefixname": "Podtrac",
+        "iab": "1",
         "abilities_stats": "1",
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
@@ -52,6 +57,7 @@
     {
         "prefixpattern": "play.podtrac.com",
         "prefixname": "Podtrac",
+        "iab": "1",
         "abilities_stats": "1",
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
@@ -62,6 +68,7 @@
     {
         "prefixpattern": "www.podtrac.com",
         "prefixname": "Podtrac",
+        "iab": "1",
         "abilities_stats": "1",
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
