@@ -13,6 +13,8 @@ Each entry _must_ contain the following properties:
 
 * `prefixname`: a humanly-readable name of the prefix company
 
+* `iab`: a boolean showing whether stats from this prefix company are certified IAB v2 compliant
+
 * `abilities_stats`: a boolean showing whether this prefix company uses its logs to provide stats
 
 * `abilities_tracking`: a boolean showing whether this prefix company uses its logs to provide tracking and attribution
