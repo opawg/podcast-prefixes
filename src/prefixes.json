@@ -22,6 +22,16 @@
         "notes": "Attribution: https:\/\/chartable.com\/"
     },
     {
+        "prefixpattern": "mgln.ai\/track",
+        "prefixname": "Magellan AI",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "prefixurl": "https:\/\/www.magellan.ai\/pages\/magellan-ai-verified-downloads",
+        "prefixprivacyurl": "https:\/\/www.magellan.ai\/privacy"
+    },
+    {
         "prefixpattern": "pdcn.co",
         "prefixname": "Podcorn",
         "iab": "0",
