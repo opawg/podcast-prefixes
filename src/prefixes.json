@@ -11,7 +11,18 @@
         "notes": "Blubrry does do dynamic audio; but not their measurement service. They do not do attribution."
     },
     {
-        "prefixpattern": "(chrt.fm|chtbl.com)\/track",
+        "prefixpattern": "chrt.fm\/track",
+        "prefixname": "Chartable",
+        "iab": "1",
+        "abilities_stats": "1",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "0",
+        "prefixurl": "https:\/\/chartable.com",
+        "prefixprivacyurl": "https:\/\/chartable.com\/privacy",
+        "notes": "Attribution: https:\/\/chartable.com\/"
+    },,
+    {
+        "prefixpattern": "chtbl.com\/track",
         "prefixname": "Chartable",
         "iab": "1",
         "abilities_stats": "1",
