@@ -40,7 +40,19 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "prefixurl": "https:\/\/www.magellan.ai\/pages\/magellan-ai-verified-downloads",
-        "prefixprivacyurl": "https:\/\/www.magellan.ai\/privacy"
+        "prefixprivacyurl": "https:\/\/www.magellan.ai\\\/privacy",
+        "notes": ""
+    },
+    {
+        "prefixpattern": ".proxycast.org",
+        "prefixname": "Mediam\u00e9trie",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "prefixurl": "https:\/\/www.mediametrie.fr\/en\/estat-podcast",
+        "prefixprivacyurl": "http:\/\/www.mediametrie.fr\/en\/attention-participants-mediametrie-interview",
+        "notes": ""
     },
     {
         "prefixpattern": "pdcn.co",
@@ -52,6 +64,17 @@
         "prefixurl": "https:\/\/podcorn.com",
         "prefixprivacyurl": "https:\/\/podcorn.com\/privacy\/",
         "notes": "No mention of attribution visible on their website"
+    },
+    {
+        "prefixpattern": "growx.podkite.com",
+        "prefixname": "Podkite",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "prefixurl": "https:\/\/docs.podkite.com\/download-analytics\/setup\/",
+        "prefixprivacyurl": "https:\/\/podkite.com\/privacy",
+        "notes": ""
     },
     {
         "prefixpattern": "pdst.fm\/e\/",
