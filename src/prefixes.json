@@ -1,5 +1,16 @@
 [
     {
+        "prefixpattern": "adbarker.com",
+        "prefixname": "AdBarker",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "1",
+        "prefixurl": "https:\/\/adbarker.com\/stream\/asdf",
+        "prefixprivacyurl": "https:\/\/adbarker.com\/privacy",
+        "notes": "Assume that this service does statistics as well as dynamic audio. (That's not very clear from the website)."
+    },
+    {
         "prefixpattern": "media.blubrry.com",
         "prefixname": "Blubrry",
         "iab": "1",
@@ -40,7 +51,7 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "prefixurl": "https:\/\/www.magellan.ai\/pages\/magellan-ai-verified-downloads",
-        "prefixprivacyurl": "https:\/\/www.magellan.ai\/privacy",
+        "prefixprivacyurl": "https:\/\/www.magellan.ai\\\/privacy",
         "notes": ""
     },
     {
