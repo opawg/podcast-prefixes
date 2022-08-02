@@ -130,5 +130,16 @@
         "prefixurl": "https:\/\/analytics.podtrac.com",
         "prefixprivacyurl": "https:\/\/analytics.podtrac.com\/privacy-policy-gdrp",
         "notes": "No mention of attribution visible on their website"
+    },
+    {
+        "prefixpattern": "p.podderapp.com",
+        "prefixname": "Podder",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "0",
+        "prefixurl": "https:\/\/www.podderapp.com",
+        "prefixprivacyurl": "https:\/\/www.podderapp.com\/privacy-policy",
+        "notes": ""
     }
 ]
