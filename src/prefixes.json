@@ -44,6 +44,17 @@
         "notes": "Attribution: https:\/\/chartable.com\/"
     },
     {
+        "prefixpattern": "clasitaspod.com\/measure",
+        "prefixname": "Claritas",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "0",
+        "prefixurl": "https:\/\/claritas.com\/podcast-attribution-audience-identification\/",
+        "prefixprivacyurl": "https:\/\/claritas.com\/privacy-legal\/",
+        "notes": ""
+    },
+    {
         "prefixpattern": "mgln.ai\/track",
         "prefixname": "Magellan AI",
         "iab": "0",
