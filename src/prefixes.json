@@ -110,6 +110,17 @@
         "notes": ""
     },
     {
+        "prefixpattern": "verifi.podscribe.com\/rss",
+        "prefixname": "Podscribe",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "0",
+        "prefixurl": "https:\/\/podscribe.com\/blog\/impression-verification-mb45x",
+        "prefixprivacyurl": "https:\/\/podcasters.podscribe.ai\/privacy-policy\/",
+        "notes": ""
+    },
+    {
         "prefixpattern": "pdst.fm\/e\/",
         "prefixname": "Podsights",
         "iab": "0",
