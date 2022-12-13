@@ -55,6 +55,17 @@
         "notes": ""
     },
     {
+        "prefixpattern": "t.glystn.com",
+        "prefixname": "Glystn",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "0",
+        "prefixurl": "https:\/\/glystn.com\/",
+        "prefixprivacyurl": "https:\/\/glystn.com\/product-privacy-policy.html",
+        "notes": ""
+    },
+    {
         "prefixpattern": "mgln.ai\/track",
         "prefixname": "Magellan AI",
         "iab": "0",
