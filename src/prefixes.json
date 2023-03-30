@@ -132,6 +132,17 @@
         "notes": ""
     },
     {
+        "prefixpattern": "pdrl.fm\/",
+        "prefixname": "Podroll",
+        "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "1",
+        "prefixurl": "https:\/\/podroll.fm",
+        "prefixprivacyurl": "https:\/\/podroll.fm\/privacy",
+        "notes": ""
+    },
+    {
         "prefixpattern": "verifi.podscribe.com\/rss\/p",
         "prefixname": "Podscribe",
         "iab": "0",
