@@ -66,6 +66,17 @@
         "notes": ""
     },
     {
+        "prefixpattern": "2.gum.fm",
+        "prefixname": "Gumshoe",
+        "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "0",
+        "prefixurl": "https:\/\/gumball.fm\/help\/podcasters\/getting-started-with-gumball\/360008116394#gumshoe-gumballs-campaign-tracking-solution",
+        "prefixprivacyurl": "https:\/\/gumball.fm\/privacy",
+        "notes": ""
+    },
+    {
         "prefixpattern": "mgln.ai\/track",
         "prefixname": "Magellan AI",
         "iab": "0",
