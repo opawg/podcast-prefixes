@@ -229,5 +229,16 @@
         "prefixurl": "https:\/\/analytics.podtrac.com",
         "prefixprivacyurl": "https:\/\/analytics.podtrac.com\/privacy-policy-gdrp",
         "notes": "No mention of attribution visible on their website"
+    },
+    {
+        "prefixpattern": "a.pdcst.to",
+        "prefixname": "Voxalyze",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "0",
+        "prefixurl": "https:\/\/voxalyze.com",
+        "prefixprivacyurl": "https:\/\/voxalyze.com\/legal\/privacy-policy\/",
+        "notes": "https:\/\/help.voxalyze.com\/article\/61-tracking-prefix"
     }
 ]
