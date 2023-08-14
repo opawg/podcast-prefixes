@@ -84,7 +84,18 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "prefixurl": "https:\/\/www.magellan.ai\/pages\/magellan-ai-verified-downloads",
-        "prefixprivacyurl": "https:\/\/www.magellan.ai\\\/privacy",
+        "prefixprivacyurl": "https:\/\/www.magellan.ai\/privacy",
+        "notes": ""
+    },
+    {
+        "prefixpattern": "mgln.ai\/e",
+        "prefixname": "Magellan AI",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "prefixurl": "https:\/\/www.magellan.ai\/pages\/magellan-ai-verified-downloads",
+        "prefixprivacyurl": "https:\/\/www.magellan.ai\/privacy",
         "notes": ""
     },
     {
