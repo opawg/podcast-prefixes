@@ -55,6 +55,17 @@
         "notes": ""
     },
     {
+        "prefixpattern": "cohst.app\/pdcst",
+        "prefixname": "CoHost Prefix",
+        "iab": "1",
+        "abilities_stats": "1",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "0",
+        "prefixurl": "https:\/\/www.cohostpodcasting.com\/cohost-prefix",
+        "prefixprivacyurl": "https:\/\/www.cohostpodcasting.com\/privacy-policy",
+        "notes": "Attribution: https:\/\/cohost.helpscoutdocs.com\/article\/103-how-to-add-the-cohost-prefix-to-your-show"
+    },
+    {
         "prefixpattern": "t.glystn.com",
         "prefixname": "Glystn",
         "iab": "0",
