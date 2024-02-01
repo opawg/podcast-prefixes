@@ -264,6 +264,17 @@
         "notes": "No mention of attribution visible on their website"
     },
     {
+        "prefixpattern": "prefix.up.audio\/s",
+        "prefixname": "United Podcasters",
+        "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "prefixurl": "https:\/\/up.audio",
+        "prefixprivacyurl": "https:\/\/up.audio\/privacy",
+        "notes": ""
+    },
+    {
         "prefixpattern": "a.pdcst.to",
         "prefixname": "Voxalyze",
         "iab": "0",
