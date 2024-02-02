@@ -11,6 +11,17 @@
         "notes": "Assume that this service does statistics as well as dynamic audio. (That's not very clear from the website)."
     },
     {
+        "prefixpattern": "arttrk.com\/p",
+        "prefixname": "ArtsAI",
+        "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "prefixurl": "https:\/\/artsai.com",
+        "prefixprivacyurl": "https:\/\/claritas.com\/privacy-legal",
+        "notes": ""
+    },
+    {
         "prefixpattern": "media.blubrry.com",
         "prefixname": "Blubrry",
         "iab": "1",
@@ -251,6 +262,17 @@
         "prefixurl": "https:\/\/analytics.podtrac.com",
         "prefixprivacyurl": "https:\/\/analytics.podtrac.com\/privacy-policy-gdrp",
         "notes": "No mention of attribution visible on their website"
+    },
+    {
+        "prefixpattern": "prefix.up.audio\/s",
+        "prefixname": "United Podcasters",
+        "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "prefixurl": "https:\/\/up.audio",
+        "prefixprivacyurl": "https:\/\/up.audio\/privacy",
+        "notes": ""
     },
     {
         "prefixpattern": "a.pdcst.to",
