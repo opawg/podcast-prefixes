@@ -143,6 +143,17 @@
         "notes": ""
     },
     {
+        "prefixpattern": "pdcds.co",
+        "prefixname": "Podcards",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "0",
+        "prefixurl": "https:\/\/pod.cards",
+        "prefixprivacyurl": "https:\/\/pod.cards",
+        "notes": "No privacy policy found yet"
+    },
+    {
         "prefixpattern": "pdcn.co",
         "prefixname": "Podcorn",
         "iab": "0",
