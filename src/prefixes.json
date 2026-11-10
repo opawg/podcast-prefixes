@@ -317,5 +317,15 @@
         "prefixurl": "https:\/\/ads.spotify.com\/en-US\/news-and-insights\/introducing-spotify-ad-analytics\/",
         "prefixprivacyurl": "https:\/\/www.spotify.com\/us\/legal\/ad-analytics-privacy-policy\/",
         "notes": "https:\/\/help.adanalytics.spotify.com\/install-the-spotify-ad-analytics-podcast-prefix"
+    },
+    {
+        "prefixpattern": "hopr.fm",
+        "prefixname": "PodSEO",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "prefixurl": "https:\/\/help.podseo.com\/features\/analytics-connections.html#hopr-fm-podseo-s-download-prefix",
+        "prefixprivacyurl": "https:\/\/podseo.com\/hoprfm\/privacy\/"
     }
 ]
